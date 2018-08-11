@@ -1,5 +1,5 @@
 {
-  "name": "@sghjahfh/blueprint-npm-module",
+  "name": "@js-basics/blueprint-npm-module",
   "version": "0.0.0-development",
   "description": "",
   "main": "./lib/index.js",
