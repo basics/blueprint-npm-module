@@ -1,3 +1,10 @@
+## [1.2.16](https://github.com/basics/blueprint-npm-module/compare/v1.2.15...v1.2.16) (2018-08-12)
+
+
+### Bug Fixes
+
+* **commitlint:** moved config from package.json to rc file ([77ac55a](https://github.com/basics/blueprint-npm-module/commit/77ac55a))
+
 ## [1.2.15](https://github.com/basics/blueprint-npm-module/compare/v1.2.14...v1.2.15) (2018-08-12)
 
 
