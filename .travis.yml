@@ -10,7 +10,7 @@ notifications:
   email: false
 install:
   - npm install
-  - npm install semantic-release @semantic-release/git --no-save
+  - npm install semantic-release @semantic-release/git @semantic-release/changelog --no-save
 script:
   - npm run test
   - npm run build
