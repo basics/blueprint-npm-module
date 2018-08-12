@@ -1,3 +1,10 @@
+## [1.2.14](https://github.com/basics/blueprint-npm-module/compare/v1.2.13...v1.2.14) (2018-08-12)
+
+
+### Bug Fixes
+
+* **package.json:** updated package description ([9a411fc](https://github.com/basics/blueprint-npm-module/commit/9a411fc))
+
 ## [1.2.13](https://github.com/basics/blueprint-npm-module/compare/v1.2.12...v1.2.13) (2018-08-12)
 
 
