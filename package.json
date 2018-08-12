@@ -1,7 +1,7 @@
 {
   "name": "@js-basics/blueprint-npm-module",
   "version": "1.2.13",
-  "description": "",
+  "description": "blueprint to create npm modules",
   "main": "./lib/index.js",
   "directories": {
     "example": "examples",
