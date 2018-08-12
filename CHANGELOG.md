@@ -1,3 +1,10 @@
+## [1.2.13](https://github.com/basics/blueprint-npm-module/compare/v1.2.12...v1.2.13) (2018-08-12)
+
+
+### Bug Fixes
+
+* **npm:** added to publish instance ([7a06703](https://github.com/basics/blueprint-npm-module/commit/7a06703))
+
 ## [1.2.12](https://github.com/basics/blueprint-npm-module/compare/v1.2.11...v1.2.12) (2018-08-12)
 
 
