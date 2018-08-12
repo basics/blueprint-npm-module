@@ -31,7 +31,7 @@
     "prepare": [
       "@semantic-release/npm",
       {
-        "path": "@semantic-release/github",
+        "path": "@semantic-release/git",
         "assets": [
           "package.json",
           "dist/**/*.{js,css}",
