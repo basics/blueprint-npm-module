@@ -59,5 +59,8 @@
     "nyc": "^14.1.1",
     "rimraf": "^2.6.3",
     "semantic-release": "^15.13.19"
+  },
+  "dependencies": {
+    "core-js": "^3.1.4"
   }
 }
