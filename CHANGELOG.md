@@ -1,3 +1,17 @@
+# [1.3.0](https://github.com/basics/blueprint-npm-module/compare/v1.2.16...v1.3.0) (2019-08-03)
+
+
+### Bug Fixes
+
+* **babel:** added corejs version ([defb147](https://github.com/basics/blueprint-npm-module/commit/defb147))
+* **babel:** extended preset-env options ([2382f57](https://github.com/basics/blueprint-npm-module/commit/2382f57))
+* **babel:** upgraded corejs version ([dab7f25](https://github.com/basics/blueprint-npm-module/commit/dab7f25))
+
+
+### Features
+
+* **update:** updated versions ([3116d25](https://github.com/basics/blueprint-npm-module/commit/3116d25))
+
 ## [1.2.16](https://github.com/basics/blueprint-npm-module/compare/v1.2.15...v1.2.16) (2018-08-12)
 
 
