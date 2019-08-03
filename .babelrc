@@ -2,7 +2,13 @@
   "env": {
     "development": {
       "presets": [
-        "@babel/preset-env"
+        [
+          "@babel/preset-env",
+          {
+            "corejs": "2",
+            "useBuiltIns": "usage"
+          }
+        ]
       ],
       "plugins": [
         "istanbul"
@@ -10,7 +16,13 @@
     },
     "production": {
       "presets": [
-        "@babel/preset-env",
+        [
+          "@babel/preset-env",
+          {
+            "corejs": "2",
+            "useBuiltIns": "usage"
+          }
+        ],
         "minify"
       ],
       "plugins": [
