@@ -1,15 +1,44 @@
 {
   "env": {
     "development": {
-      "presets": ["env"],
+      "presets": [
+        [
+          "@babel/preset-env",
+          {
+            "targets": {
+              "browsers": [
+                "last 2 versions",
+                "ie >= 11"
+              ],
+            },
+            "corejs": "3.1.4",
+            "useBuiltIns": "usage"
+          }
+        ]
+      ],
       "plugins": [
-        "add-module-exports"
+        "istanbul"
       ]
     },
     "production": {
-      "presets": ["env", "minify"],
+      "presets": [
+        [
+          "@babel/preset-env",
+          {
+            "targets": {
+              "browsers": [
+                "last 2 versions",
+                "ie >= 11"
+              ],
+            },
+            "corejs": "3.1.4",
+            "useBuiltIns": "usage"
+          }
+        ],
+        "minify"
+      ],
       "plugins": [
-        "add-module-exports"
+        "istanbul"
       ]
     }
   }
