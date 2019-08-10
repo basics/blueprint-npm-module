@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/basics/blueprint-npm-module/compare/v1.3.0...v1.3.1) (2019-08-10)
+
+
+### Bug Fixes
+
+* **rollup:** reconfiguration of rollup process ([e6a9849](https://github.com/basics/blueprint-npm-module/commit/e6a9849))
+
 # [1.3.0](https://github.com/basics/blueprint-npm-module/compare/v1.2.16...v1.3.0) (2019-08-03)
 
 
