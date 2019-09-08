@@ -1,3 +1,10 @@
+## [1.3.2](https://github.com/basics/blueprint-npm-module/compare/v1.3.1...v1.3.2) (2019-09-08)
+
+
+### Bug Fixes
+
+* **rollup:** add extend for shared basics umd ([2a52d9b](https://github.com/basics/blueprint-npm-module/commit/2a52d9b))
+
 ## [1.3.1](https://github.com/basics/blueprint-npm-module/compare/v1.3.0...v1.3.1) (2019-08-10)
 
 
