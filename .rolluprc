@@ -1,8 +1,8 @@
-import babel from 'rollup-plugin-babel';
-import resolve from 'rollup-plugin-node-resolve';
-import minify from 'rollup-plugin-babel-minify';
+const babel = require('rollup-plugin-babel');
+const resolve = require('rollup-plugin-node-resolve');
+const minify = require('rollup-plugin-babel-minify');
 
-export default {
+module.exports = [{
   input: 'src/index.js',
   output: {
     name: 'basics',
@@ -25,4 +25,4 @@ export default {
       bannerNewLine: true
     })
   ]
-};
+}];
